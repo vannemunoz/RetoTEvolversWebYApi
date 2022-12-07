@@ -15,7 +15,7 @@ Este proyecto da solución a dos puntos planteados en el reto de T-Evolvers, los
 Para clonar este repositorio se debe ejecutar el siguiente comando:
 
 
-    git clone https://github.com/
+    git clone https://github.com/vannemunoz/RetoTEvolversWebYApi
 
 
 ### PRUEBA DE AUTOMATIZACIÓN API
